@@ -29,6 +29,7 @@
     <Xicons
       :icon="item.icon"
       :text="item.text"
+      :link="item.link"
       icon-size="20"
       text-size="14"
     />

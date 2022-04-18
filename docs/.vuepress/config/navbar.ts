@@ -28,4 +28,5 @@ export const navbar = [
   //   ],
   // },
   // { text: '留言板', link: '/docs/message-board' },
+  { text: 'Git', link: 'https://gitee.com/BTAJL/repchain' },
 ]
