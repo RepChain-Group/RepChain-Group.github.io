@@ -19,4 +19,7 @@ bannerBrand:
     - { text: 指南, link: '/docs/guide/introduce.html' }
     - { text: 项目地址, link: 'https://gitee.com/BTAJL/repchain', type: 'plain' }
 isShowTitleInHome: true
+footer:
+    record: 京ICP备17063343号-2
+    recordLink: https://beian.miit.gov.cn/
 ---
