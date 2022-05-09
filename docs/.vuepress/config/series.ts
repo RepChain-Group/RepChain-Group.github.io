@@ -1,7 +1,9 @@
 export const series = {
   // todo README.md 无法展示，没有对 '' 进行处理
   '/docs/guide/': ['introduce'],
-  '/docs/gongzhong/': ['gongzhong']
+  '/docs/gongzhong/': ['gongzhong'],
+  '/docs/doc/': ['menu'],
+
   // '/docs/style-default-api/': [
   //   {
   //     text: '基础',
