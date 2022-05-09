@@ -1,22 +1,22 @@
-install
+## install
 
 ```shell
 yarn install
 ```
 
-dev
+## dev
 
-mac/linux
+### mac/linux
 ```shell
 yarn dev-watch:docs
 ```
 
-windows
+### windows
 ```shell
 yarn dev:docs
 ```
 
-build
+## build
 
 ```shell
 yarn build:docs
