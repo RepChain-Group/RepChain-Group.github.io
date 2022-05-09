@@ -1,0 +1,28 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+	autosize 4.0.2
+	license: MIT
+	http://www.jacklmoore.com/autosize
+*/
+
+/*!
+ * Valine v1.4.14
+ * (c) 2017-2020 xCss
+ * Released under the GPL-2.0 License.
+ * Last Update: 2020/4/26 下午8:39:08
+ */
+
+/*!
+ * storejs v1.0.24
+ * Local storage localstorage package provides a simple API
+ * 
+ * Copyright (c) 2018 kenny wang <wowohoo@qq.com>
+ * https://github.com/jaywcjlove/store.js
+ * 
+ * Licensed under the MIT license.
+ */
