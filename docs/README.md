@@ -22,4 +22,6 @@ isShowTitleInHome: true
 footer:
     record: 京ICP备17063343号-2
     recordLink: https://beian.miit.gov.cn/
+    cyberSecurityRecord: 京公网安备 11010802039752号
+    cyberSecurityLink: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802039752
 ---
