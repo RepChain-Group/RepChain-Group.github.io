@@ -26,7 +26,7 @@ export const navbar = [
       {
         text: '接口协同',
         children: [
-          { text: '1.0.2', link: 'https://btajl.gitee.io/api-coord/' },
+          { text: 'rc2.0.0', link: 'https://btajl.gitee.io/api-coord/' },
         ]
       },
       {

@@ -41,7 +41,7 @@ date: 2022-05-09 14:49:52
 
 > 基于RepChain的链外接口协同组件
 
-### 1.0.2
+### rc2.0.0
 
 [https://btajl.gitee.io/api-coord/](https://btajl.gitee.io/api-coord/)
 
