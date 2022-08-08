@@ -6,6 +6,7 @@ export const navbar = [
       {
         text: 'Repchain',
         children: [
+          { text: '2.0 RC1', link: 'https://btajl.gitee.io/repchain/RepChain-2.0/' },
           { text: '1.1', link: 'https://btajl.gitee.io/rcdevelop-docs/#/' },
         ]
       },

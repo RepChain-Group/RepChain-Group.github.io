@@ -9,6 +9,10 @@ date: 2022-05-09 14:49:52
 
 > 自主可控的许可链基础组件
 
+### 2.0 RC1
+
+[https://btajl.gitee.io/repchain/RepChain-2.0/](https://btajl.gitee.io/repchain/RepChain-2.0/)
+
 ### 1.1
 
 [https://btajl.gitee.io/rcdevelop-docs/#/](https://btajl.gitee.io/rcdevelop-docs/#/)
