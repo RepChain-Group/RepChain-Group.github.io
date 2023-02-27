@@ -1,5 +1,6 @@
 export const navbar = [
   { text: '指南', link: '/docs/guide/introduce' },
+  { text: '应用案例', link: '/docs/case/list' },
   { text: '文档',
     children: [
       { text: '文档目录', link: '/docs/doc/menu' },
