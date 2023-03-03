@@ -1,6 +1,11 @@
 ---
 title: 指南
 date: 2022-04-15 16:30:52
+description: RepChain简单的使用指南
+head:
+  - - meta
+    - name: keywords
+      content: repchain,指南,概要说明,使用说明
 ---
 
 # RepChain

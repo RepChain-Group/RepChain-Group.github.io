@@ -3,6 +3,7 @@ export const series = {
   '/docs/guide/': ['introduce'],
   '/docs/gongzhong/': ['gongzhong'],
   '/docs/doc/': ['menu'],
+  '/docs/case/': ['list'],
 
   // '/docs/style-default-api/': [
   //   {

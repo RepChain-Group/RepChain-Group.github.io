@@ -1,5 +1,9 @@
 ---
 home: true
+head:
+  - - meta
+    - name: keywords
+      content: repchain,自主可控,国产区块链,区块链,RepChain,repchain区块链,Repchain区块链
 modules:
   - BannerBrand
   - MdContent

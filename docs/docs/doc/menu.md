@@ -1,6 +1,11 @@
 ---
 title: 文档目录
 date: 2022-05-09 14:49:52
+description: RepChain使用文档及组件说明
+head:
+  - - meta
+    - name: keywords
+      content: repchain,文档,组件,使用说明
 ---
 
 # RepChain及组件文档目录
