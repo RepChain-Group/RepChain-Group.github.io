@@ -1,0 +1,18 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://repchain.net/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://repchain.net/docs/guide/introduce.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://repchain.net/docs/case/list.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://repchain.net/docs/doc/menu.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
+</urlset>
