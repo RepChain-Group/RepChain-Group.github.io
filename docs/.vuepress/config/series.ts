@@ -4,6 +4,7 @@ export const series = {
   '/docs/gongzhong/': ['gongzhong'],
   '/docs/doc/': ['menu'],
   '/docs/case/': ['list'],
+  '/docs/contect/': ['email'],
 
   // '/docs/style-default-api/': [
   //   {

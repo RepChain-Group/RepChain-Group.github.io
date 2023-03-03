@@ -40,6 +40,6 @@ export const navbar = [
       }
     ]
   },
-  // { text: '留言板', link: '/docs/message-board' },
+  { text: '联系我们', link: '/docs/contect/email' },
   { text: 'Git', link: 'https://gitee.com/BTAJL/repchain' },
 ]
