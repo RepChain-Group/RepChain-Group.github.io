@@ -5,7 +5,7 @@ description: RepChain应用场景及案例
 head:
   - - meta
     - name: keywords
-      content: repchain,应用场景,案例,应用案例
+      content: repchain,享链,应用场景,案例,应用案例
 ---
 
 # RepChain应用场景及案例

@@ -5,7 +5,7 @@ description: RepChain公众号，扫码关注
 head:
   - - meta
     - name: keywords
-      content: repchain,公众号
+      content: repchain,享链,公众号
 ---
 
 # RepChain公众号

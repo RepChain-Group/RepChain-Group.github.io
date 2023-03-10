@@ -5,7 +5,7 @@ description: RepChain简单的使用指南
 head:
   - - meta
     - name: keywords
-      content: repchain,指南,概要说明,使用说明
+      content: repchain,享链,指南,概要说明,使用说明,享链
 ---
 
 # RepChain

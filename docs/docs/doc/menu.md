@@ -5,7 +5,7 @@ description: RepChain使用文档及组件说明
 head:
   - - meta
     - name: keywords
-      content: repchain,文档,组件,使用说明
+      content: repchain,享链,文档,组件,使用说明
 ---
 
 # RepChain及组件文档目录
