@@ -12,7 +12,7 @@ head:
 
 ## 联系邮箱
 
-[longshuai@iscas.ac.cn](mailto:longshuai@iscas.ac.cn)
+郑老师 [longshuai@iscas.ac.cn](mailto:longshuai@iscas.ac.cn)
 
 ## 码云
 
