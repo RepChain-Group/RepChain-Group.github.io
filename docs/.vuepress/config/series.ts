@@ -5,6 +5,7 @@ export const series = {
   '/docs/doc/': ['menu'],
   '/docs/case/': ['list'],
   '/docs/contect/': ['email'],
+  '/docs/mainnet/': ['mainnet'],
 
   // '/docs/style-default-api/': [
   //   {
