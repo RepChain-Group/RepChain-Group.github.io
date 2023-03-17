@@ -3,3 +3,4 @@ https://repchain.net/docs/guide/introduce.html
 https://repchain.net/docs/case/list.html
 https://repchain.net/docs/doc/menu.html
 https://repchain.net/docs/contect/email.html
+https://repchain.net/docs/mainnet/mainnet.html
