@@ -19,4 +19,8 @@
     <loc>https://repchain.net/docs/contect/email.html</loc>
     <changefreq>daily</changefreq>
   </url>
+  <url>
+    <loc>https://repchain.net/docs/mainnet/mainnet.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
 </urlset>
