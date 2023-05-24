@@ -13,7 +13,7 @@ head:
 
 ## RepChain公众号
 <p align="center" style="width: 400px">
-  <img src="/gongzhong.jpg">
+  <img src="/qc_gz.jpeg">
 </p>
 
 

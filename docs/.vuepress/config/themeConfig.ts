@@ -5,7 +5,7 @@ import { valineConfig } from './valineConfig'
 
 export const themeConfig = {
   style: '@vuepress-reco/style-default',
-  // logo: '/gongzhong.jpg',
+  logo: '/logo_Model_single.png',
   author: 'repchain',
   docsRepo: 'https://gitee.com/BTAJL/repchain',
   docsBranch: 'main',

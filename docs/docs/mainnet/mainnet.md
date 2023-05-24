@@ -15,7 +15,6 @@ RepChain基础链是搭载最新版本[RepChain](https://repchain.net)的实验�
   <img src="/img/mainnet.png">
 </p>
 
-
 ## 主网
 
 * 现已面向公众开放节点信息、区块数据、交易数据的公开查看权限
