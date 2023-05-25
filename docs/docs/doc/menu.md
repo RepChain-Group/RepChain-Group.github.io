@@ -48,7 +48,7 @@ head:
 
 ### rc2.0.0
 
-[https://btajl.gitee.io/api-coord/](https://btajl.gitee.io/api-coord/)
+[https://repchain.net/api-coord-docs/](https://repchain.net/api-coord-docs/)
 
 ## 客户端或示例
 
