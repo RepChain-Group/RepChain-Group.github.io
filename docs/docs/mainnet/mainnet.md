@@ -20,7 +20,7 @@ RepChain基础链是搭载最新版本[RepChain](https://repchain.net)的实验�
 * 现已面向公众开放节点信息、区块数据、交易数据的公开查看权限
 * 用于支撑RepChain最新实验性区块链应用和组件（跨链、多链协同……）的试运行
 * 面向合作伙伴联盟链提供联盟链跨链数据锚定服务，公众可利用锚定数据验证这些联盟链数据的完整性和可靠性
-* 访问方式：可公开访问，主网RepChain Dashboard[1][入口](https://mainnet.repchain.net)
+* 访问方式：可公开访问，主网RepChain Dashboard[1][即将开放]()
 
 ## 测试网
 
