@@ -14,13 +14,21 @@ head:
 
 > 自主可控的许可链基础组件
 
-### 2.0 RC1
+### 2.0
 
-[https://btajl.gitee.io/repchain/RepChain-2.0/](https://btajl.gitee.io/repchain/RepChain-2.0/)
+[https://repcas.gitee.io/repchain-doc/](https://repcas.gitee.io/repchain-doc/)
 
 ### 1.1
 
 [https://btajl.gitee.io/rcdevelop-docs/#/](https://btajl.gitee.io/rcdevelop-docs/#/)
+
+## isCL合约语言
+
+> isCL合约语言用户手册
+
+### 1.0
+
+[https://repcas.gitee.io/iscl-doc/](https://repcas.gitee.io/iscl-doc/)
 
 ## 合约开发
 

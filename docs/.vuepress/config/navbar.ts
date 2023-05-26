@@ -7,8 +7,14 @@ export const navbar = [
       {
         text: 'Repchain',
         children: [
-          { text: '2.0 RC1', link: 'https://btajl.gitee.io/repchain/RepChain-2.0/' },
+          { text: '2.0', link: 'https://repcas.gitee.io/repchain-doc/' },
           { text: '1.1', link: 'https://btajl.gitee.io/rcdevelop-docs/#/' },
+        ]
+      },
+      {
+        text: 'isCL合约语言',
+        children: [
+          { text: '1.0', link: 'https://repcas.gitee.io/iscl-doc' },
         ]
       },
       {
