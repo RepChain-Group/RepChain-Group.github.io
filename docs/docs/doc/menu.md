@@ -42,6 +42,10 @@ head:
 
 > RepChain Dashboard，即RepChain区块链管理控制台
 
+### 2.0
+
+[https://repcas.gitee.io/dash-board-doc/](https://repcas.gitee.io/dash-board-doc/)
+
 ### 1.3
 
 [https://linkel_1.gitee.io/repchain-dashboard-client/1.3/](https://linkel_1.gitee.io/repchain-dashboard-client/1.3/)

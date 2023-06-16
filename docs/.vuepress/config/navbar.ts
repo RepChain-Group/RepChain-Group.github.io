@@ -26,6 +26,7 @@ export const navbar = [
       {
         text: 'Dashboard',
         children: [
+          { text: '2.0', link: 'https://repcas.gitee.io/dash-board-doc/' },
           { text: '1.3', link: 'https://linkel_1.gitee.io/repchain-dashboard-client/1.3/' },
           { text: '1.1', link: 'https://linkel_1.gitee.io/repchain-dashboard-client/1.1/' },
         ]
