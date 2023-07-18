@@ -32,6 +32,12 @@ export const navbar = [
         ]
       },
       {
+        text: '跨链组件',
+        children: [
+          { text: '2.0', link: 'https://repchain.net/repchain-cross-doc/' },
+        ]
+      },
+      {
         text: '接口协同',
         children: [
           { text: 'rc2.0.0', link: 'https://repchain.net/api-coord-docs/' },

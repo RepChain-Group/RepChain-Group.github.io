@@ -54,6 +54,14 @@ head:
 
 [https://linkel_1.gitee.io/repchain-dashboard-client/1.1/](https://linkel_1.gitee.io/repchain-dashboard-client/1.1/)
 
+## 跨链组件
+
+> 支持RepChain，Fisco Bcos 2.* ,Fabric 2.* 的跨链组件
+
+### 2.0
+
+[https://repchain.net/repchain-cross-doc/](https://repchain.net/repchain-cross-doc/)
+
 ## 接口协同
 
 > 基于RepChain的链外接口协同组件
