@@ -8,6 +8,13 @@ head:
       content: repchain,享链,指南,概要说明,使用说明,享链
 ---
 
+## RepChain2.0免编译版本发布
+- [RepChain免编译版本下载](https://github.com/RepChain-Group/repchain-package/releases) ——为方便用户使用，提供了免编译版本，此版本不需要编译即可直接运行
+- 前置条件
+  - 需要机器上安装java13，并配置好环境变量
+  - 单机多节点解压后使用启动脚本 (start.sh或start.cmd)，linux/mac使用start.sh,，win系统双击start.cmd
+  - 多机多节点使用启动脚本(start01.sh至start05.sh或start01.cmd至start05.cmd)，启动前需要修改配置文件
+
 # RepChain
 [RepChain文档](https://gitee.com/BTAJL/repchain/attach_files)   [单机多节点部署](https://iscas1-my.sharepoint.cn/:v:/g/personal/zhengls_iscas1_partner_onmschina_cn/EaghaEdYxndOm1f7H01RNVoBRqWm7v5kCFXUZ4QwVVP7Wg?e=fIa58e)   [多机多节点部署](https://iscas1-my.sharepoint.cn/:v:/g/personal/zhengls_iscas1_partner_onmschina_cn/Ebk4-kDPg25KjE-9oSBKTuEBwD9pTJeQAgal_AYquLPHzg?e=D9tQNF)
 
