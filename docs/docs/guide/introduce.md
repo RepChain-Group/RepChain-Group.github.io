@@ -52,6 +52,7 @@ head:
    * 修改管理服务通信端口 `akka.remote.artery.canonical.port`，默认22520，端口如果不冲突可以不用修改。
    * 修改管理服务HTTP端口 `system.api.http_service_port` ，默认为7081，端口不冲突可以不用修改。
 4. 修改启动脚本`start01.sh`（主要修改java相关内容，其他节点需要修改相对应的启动脚本）。
+    > 此处节点1（node1）修改start01.sh并启动，其他节点X，修改脚本start0X.sh并启动。
 5. 每个机器进行上述配置后启动。
 6. 浏览器输入`http://[任意已启动节点的通信地址]:[HTTP端口]`查看区块链状态。
 7. 停止脚本为`stop.sh`。
