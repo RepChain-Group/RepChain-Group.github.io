@@ -35,7 +35,7 @@ head:
 
 ### 2.0
 
-[https://zls201624.github.io/dashboard-doc/DashBoard.html](https://zls201624.github.io/dashboard-doc/DashBoard.html)
+[https://zls201624.github.io/dashboard-doc/](https://zls201624.github.io/dashboard-doc/)
 
 
 ## 跨链组件
