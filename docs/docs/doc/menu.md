@@ -16,7 +16,7 @@ head:
 
 ### 2.0
 
-[https://zls201624.github.io/repchain-doc/]([https://repcas.gitee.io/repchain-doc/](https://zls201624.github.io/repchain-doc/)
+[https://zls201624.github.io/repchain-doc/](https://zls201624.github.io/repchain-doc/)
 
 
 
@@ -26,7 +26,7 @@ head:
 
 ### 1.0
 
-[https://zls201624.github.io/iscl-doc/]([https://repcas.gitee.io/iscl-doc/](https://zls201624.github.io/iscl-doc/)
+[https://zls201624.github.io/iscl-doc/]((https://zls201624.github.io/iscl-doc/)
 
 
 ## Dashboard
