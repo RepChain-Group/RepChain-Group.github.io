@@ -26,7 +26,7 @@ head:
 
 ### 1.0
 
-[https://zls201624.github.io/iscl-doc/]((https://zls201624.github.io/iscl-doc/)
+[https://zls201624.github.io/iscl-doc/](https://zls201624.github.io/iscl-doc/)
 
 
 ## Dashboard
