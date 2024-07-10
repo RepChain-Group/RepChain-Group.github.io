@@ -16,11 +16,9 @@ head:
 
 ### 2.0
 
-[https://repcas.gitee.io/repchain-doc/](https://repcas.gitee.io/repchain-doc/)
+[https://zls201624.github.io/repchain-doc/]([https://repcas.gitee.io/repchain-doc/](https://zls201624.github.io/repchain-doc/)
 
-### 1.1
 
-[https://btajl.gitee.io/rcdevelop-docs/#/](https://btajl.gitee.io/rcdevelop-docs/#/)
 
 ## isCL合约语言
 
@@ -28,15 +26,8 @@ head:
 
 ### 1.0
 
-[https://repcas.gitee.io/iscl-doc/](https://repcas.gitee.io/iscl-doc/)
+[https://zls201624.github.io/iscl-doc/]([https://repcas.gitee.io/iscl-doc/](https://zls201624.github.io/iscl-doc/)
 
-## 合约开发
-
-> RepChain合约开发环境
-
-### 1.1
-
-[https://btajl.gitee.io/repchain-tpldevelop/#/](https://btajl.gitee.io/repchain-tpldevelop/#/)
 
 ## Dashboard
 
@@ -44,15 +35,8 @@ head:
 
 ### 2.0
 
-[https://repcas.gitee.io/dash-board-doc/](https://repcas.gitee.io/dash-board-doc/)
+[https://zls201624.github.io/dashboard-doc/DashBoard.html](https://zls201624.github.io/dashboard-doc/DashBoard.html)
 
-### 1.3
-
-[https://linkel_1.gitee.io/repchain-dashboard-client/1.3/](https://linkel_1.gitee.io/repchain-dashboard-client/1.3/)
-
-### 1.1
-
-[https://linkel_1.gitee.io/repchain-dashboard-client/1.1/](https://linkel_1.gitee.io/repchain-dashboard-client/1.1/)
 
 ## 跨链组件
 
