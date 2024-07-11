@@ -7,28 +7,19 @@ export const navbar = [
       {
         text: 'Repchain',
         children: [
-          { text: '2.0', link: 'https://repcas.gitee.io/repchain-doc/' },
-          { text: '1.1', link: 'https://btajl.gitee.io/rcdevelop-docs/#/' },
+          { text: '2.0', link: 'https://zls201624.github.io/repchain-doc/' },
         ]
       },
       {
         text: 'isCL合约语言',
         children: [
-          { text: '1.0', link: 'https://repcas.gitee.io/iscl-doc' },
-        ]
-      },
-      {
-        text: '合约开发',
-        children: [
-          { text: '1.1', link: 'https://btajl.gitee.io/repchain-tpldevelop/#/' },
+          { text: '1.0', link: 'https://zls201624.github.io/iscl-doc/' },
         ]
       },
       {
         text: 'Dashboard',
         children: [
           { text: '2.0', link: 'https://repcas.gitee.io/dash-board-doc/' },
-          { text: '1.3', link: 'https://linkel_1.gitee.io/repchain-dashboard-client/1.3/' },
-          { text: '1.1', link: 'https://linkel_1.gitee.io/repchain-dashboard-client/1.1/' },
         ]
       },
       {
