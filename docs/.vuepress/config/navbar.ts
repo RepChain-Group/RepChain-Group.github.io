@@ -19,7 +19,7 @@ export const navbar = [
       {
         text: 'Dashboard',
         children: [
-          { text: '2.0', link: 'https://repcas.gitee.io/dash-board-doc/' },
+          { text: '2.0', link: 'https://zls201624.github.io/dashboard-doc/' },
         ]
       },
       {
