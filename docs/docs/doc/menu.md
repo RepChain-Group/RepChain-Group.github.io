@@ -44,7 +44,7 @@ head:
 
 ### 2.0
 
-[https://repchain.net/repchain-cross-doc/](https://repchain.net/repchain-cross-doc/)
+[http://repchain.net/repchain-cross-doc/](http://repchain.net/repchain-cross-doc/)
 
 ## 接口协同
 
@@ -52,7 +52,7 @@ head:
 
 ### rc2.0.0
 
-[https://repchain.net/api-coord-docs/](https://repchain.net/api-coord-docs/)
+[http://repchain.net/api-coord-docs/](http://repchain.net/api-coord-docs/)
 
 ## 客户端或示例
 
