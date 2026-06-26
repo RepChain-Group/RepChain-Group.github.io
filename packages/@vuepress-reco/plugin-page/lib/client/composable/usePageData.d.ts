@@ -1,0 +1,4 @@
+export declare const classificationPostsSymbol: unique symbol;
+export declare const classificationSummarySymbol: unique symbol;
+export declare const postsSymbol: unique symbol;
+export declare function usePageData(): Record<string, any>;

@@ -1,0 +1,26 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.pagePlugin = void 0;
+const utils_1 = require("@vuepress/utils");
+const Classifiable_1 = require("./Classifiable");
+const pagePlugin = (options, app) => {
+    const classifiable = new Classifiable_1.default(options, app);
+    return {
+        name: '@vuepress-reco/vuepress-plugin-page',
+        // define 需要在 onInitialized 生命周期执行后执行，需要使用函数表达式，而不是对象
+        define: (app) => {
+            return {
+                CLASSIFICATION_PAGINATION_POSTS: classifiable.classificationPaginationPosts,
+                CLASSIFICATION_SUMMARY: classifiable.classificationSummary,
+                POSTS: classifiable.posts,
+            };
+        },
+        clientAppEnhanceFiles: utils_1.path.resolve(__dirname, '../client/clientAppEnhance.js'),
+        async onInitialized(app) {
+            classifiable.resolveKeyValue();
+            const resolvePages = await Promise.all(classifiable.extendedPages);
+            app.pages = [...app.pages, ...resolvePages];
+        },
+    };
+};
+exports.pagePlugin = pagePlugin;
