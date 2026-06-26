@@ -25,7 +25,7 @@ export const navbar = [
       {
         text: '跨链组件',
         children: [
-          { text: '2.0', link: 'http://repchain.net/repchain-cross-doc/' },
+          { text: '2.0', link: 'https://zls201624.github.io/cross-docs/' },
         ]
       },
       {

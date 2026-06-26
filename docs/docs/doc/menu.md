@@ -44,7 +44,7 @@ head:
 
 ### 2.0
 
-[http://repchain.net/repchain-cross-doc/](http://repchain.net/repchain-cross-doc/)
+[https://zls201624.github.io/cross-docs/](https://zls201624.github.io/cross-docs/)
 
 ## 接口协同
 
